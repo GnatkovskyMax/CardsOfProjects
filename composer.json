@@ -1,0 +1,12 @@
+{
+    "name": "max/tz",
+    "require": {
+        "imagine/imagine": "~0.5.0"
+    },
+    "authors": [
+        {
+            "name": "Maxim Gnatkovsky",
+            "email": "gnatkovsky@bigmir.net"
+        }
+    ]
+}
